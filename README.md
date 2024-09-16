@@ -137,6 +137,9 @@ To generate a base64-encoded payload that executes a TCP bind shell, use:
 
 ---
 
+
+
+---
 ## CVSS v3.0 Reference Table
 | Qualitative Rating | CVSS Score |
 | ------------------ | ---------- |
