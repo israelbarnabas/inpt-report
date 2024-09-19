@@ -30,7 +30,7 @@ The test begun with host discovery to identify active devices (hosts) on the net
 The internal network to be exploited are `10.10.10.0/24` and domain `https://virtualinfosecafrica.com`
 A **ping scan** was executed to test the reachablility of hosts on the ip address i.e `ping 10.10.10.0/24` and `ping virtualinfosecafrica.com`.
 
-Nmap was another tool which was use for host discovery. The command were used together with nmap to yield the desired output
+Nmap was another tool which was use for host discovery. These command were used together with nmap to yield the desired output
 `-sL`: List Scan - simply list targets to scan,
   `-sn`: Ping Scan - disable port scan (`nmap -sn 10.10.10.0/24`),
   `-Pn`: Treat all hosts as online -- skip host discovery.
